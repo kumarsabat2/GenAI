@@ -15,6 +15,8 @@ def get_model_provider():
     return MODEL_PROVIDER
 
 def get_openai_api_key():
+    if OPENAI_API_KEY is None:
+        raise ValueError("OPENAI_API_KEY is not set")
     return OPENAI_API_KEY
 
 def get_openai_model():
