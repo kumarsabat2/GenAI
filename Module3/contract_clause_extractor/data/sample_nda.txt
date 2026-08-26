@@ -1,0 +1,32 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+This Mutual Non-Disclosure Agreement ("Agreement") is entered into as of January 15, 2025
+by and between NovaTech Solutions Inc. ("Disclosing Party") and BrightPath Consulting LLC
+("Receiving Party").
+
+1. CONFIDENTIALITY
+Each party agrees to hold in confidence all non-public information disclosed by the other
+party, including business plans, customer lists, and technical specifications. Confidential
+information shall not be disclosed to third parties without prior written consent.
+
+2. PAYMENT TERMS
+If either party engages the other for paid professional services under a separate statement
+of work, invoices are due within thirty (30) days of receipt. Late payments accrue interest
+at 1.5% per month. All fees are exclusive of applicable taxes.
+
+3. LIABILITY
+Neither party shall be liable for indirect, incidental, or consequential damages arising
+from this Agreement. Total cumulative liability for direct damages shall not exceed the
+greater of fifty thousand dollars ($50,000) or the fees paid in the twelve months preceding
+the claim.
+
+4. TERMINATION
+Either party may terminate this Agreement with thirty (30) days written notice. Upon
+termination, each party must return or destroy confidential materials within ten (10) business
+days. Sections on confidentiality and liability survive termination.
+
+5. GOVERNING LAW
+This Agreement is governed by the laws of the State of Delaware, without regard to conflict
+of law principles.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
